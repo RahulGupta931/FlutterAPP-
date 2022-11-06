@@ -1,4 +1,4 @@
-# flutter_crud
+# Profile Viewer
 A mobile application with clean UI design. Using Firesbase and FireStore. Suitable for both ios and android.
 
 ## Tech Stack
