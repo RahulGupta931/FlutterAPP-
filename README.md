@@ -14,7 +14,8 @@ A mobile application with clean UI design. Using Firesbase and FireStore. Suitab
 </div>
 
 
-
+## Video Preview
+https://user-images.githubusercontent.com/113452509/200183166-f01ae487-e4a3-4d86-b838-7c0ceff50550.mp4
 
 ## Getting Started
 
